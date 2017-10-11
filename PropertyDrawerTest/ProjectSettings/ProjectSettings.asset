@@ -589,9 +589,9 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: 6cd49d47-d595-42dc-8edb-7571c788c980
+  projectName: PropertyDrawerTest
+  organizationId: matsuura-akase
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
